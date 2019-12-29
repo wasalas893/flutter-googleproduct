@@ -42,7 +42,10 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/planet.png
+    - images/google_logo.png
+    - images/imgbin-google-daydream-view-pixel-2-virtual-reality-headset-google-ReidExnpaPwaP4eSY3S8R5rZB.jpg
+    - images/pixel-stand-setup-prompt.webp
+    - images/menu-alt-512.png
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
