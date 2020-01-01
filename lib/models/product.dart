@@ -9,12 +9,11 @@ class Product {
   Product({this.name, this.description, this.backgroundColor, this.buttonText, this.imagePath, this.price, this.productInfo});
 }
 
-final Product pixelStand=Product(
+final Product pixel=Product(
   name:"PIxel stand",
  description :"New Release",
   backgroundColor:Color(0xFFF9F9F9),
-   buttonText:"",
-    imagePath:"images/imgbin-google-daydream-view-pixel-2-virtual-reality-headset-google-ReidExnpaPwaP4eSY3S8R5rZB.jpg",
+ imagePath:"images/imgbin-google-daydream-view-pixel-2-virtual-reality-headset-google-ReidExnpaPwaP4eSY3S8R5rZB.jpg",
     
     );
 

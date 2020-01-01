@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import './ui/products_listing_page/products_listing_page.dart';
+import './ui/product_detaill_page/product_detail_page.dart';
 
   void main()=>runApp(MyApp());
 
